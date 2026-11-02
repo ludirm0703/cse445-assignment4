@@ -29,11 +29,11 @@
     </Address>
   </NationalPark>
 
-  <NationalPark>
+  <NationalPark Rating="4.8">
     <Name>Yosemite</Name>
     <Phone>209-372-0200</Phone>
     <Phone>209-372-0826</Phone>
-    <Address NearestAirport="Fresno Yosemite International Airport">
+    <Address>
       <Number>577</Number>
       <Street>PO Box</Street>
       <City>Yosemite</City>
@@ -54,16 +54,16 @@
     </Address>
   </NationalPark>
 
-  <NationalPark>
+  <NationalPark Rating="4.7">
     <Name>Acadia</Name>
     <Phone>207-288-3338</Phone>
     <Phone>207-288-8800</Phone>
-    <Address NearestAirport="Hancock County-Bar Harbor Airport">
+    <Address>
       <Number>20</Number>
       <Street>McFarland Hill Drive</Street>
       <City>Bar Harbor</City>
       <State>ME</State>
-      <Zip>4609</Zip>
+      <Zip>04609</Zip>
     </Address>
   </NationalPark>
 
@@ -79,11 +79,11 @@
     </Address>
   </NationalPark>
 
-  <NationalPark>
+  <NationalPark Rating="4.8">
     <Name>Joshua Tree</Name>
     <Phone>760-367-5500</Phone>
     <Phone>760-367-5554</Phone>
-    <Address NearestAirport="Palm Springs International Airport">
+    <Address>
       <Number>74485</Number>
       <Street>National Park Drive</Street>
       <City>Twentynine Palms</City>
@@ -105,11 +105,11 @@
     </Address>
   </NationalPark>
 
-  <NationalPark>
+  <NationalPark Rating="4.8">
     <Name>Glacier</Name>
     <Phone>406-888-7800</Phone>
     <Phone>406-888-7806</Phone>
-    <Address NearestAirport="Glacier Park International Airport">
+    <Address>
       <Number>61</Number>
       <Street>Scoyen Circle</Street>
       <City>West Glacier</City>
@@ -130,7 +130,7 @@
     </Address>
   </NationalPark>
 
-  <NationalPark>
+  <NationalPark Rating="4.7">
     <Name>Everglades</Name>
     <Phone>305-242-7700</Phone>
     <Phone>305-242-7728</Phone>
