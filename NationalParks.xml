@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-               xsi:noNamespaceSchemaLocation="NationalParks.xsd">
+<NationalParks>
 
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
@@ -29,11 +28,11 @@
     </Address>
   </NationalPark>
 
-  <NationalPark Rating="4.8">
+  <NationalPark>
     <Name>Yosemite</Name>
     <Phone>209-372-0200</Phone>
     <Phone>209-372-0826</Phone>
-    <Address>
+    <Address NearestAirport="Fresno Yosemite International Airport">
       <Number>577</Number>
       <Street>PO Box</Street>
       <City>Yosemite</City>
@@ -54,11 +53,11 @@
     </Address>
   </NationalPark>
 
-  <NationalPark Rating="4.7">
+  <NationalPark>
     <Name>Acadia</Name>
     <Phone>207-288-3338</Phone>
     <Phone>207-288-8800</Phone>
-    <Address>
+    <Address NearestAirport="Hancock County-Bar Harbor Airport">
       <Number>20</Number>
       <Street>McFarland Hill Drive</Street>
       <City>Bar Harbor</City>
@@ -79,11 +78,11 @@
     </Address>
   </NationalPark>
 
-  <NationalPark Rating="4.8">
+  <NationalPark>
     <Name>Joshua Tree</Name>
     <Phone>760-367-5500</Phone>
     <Phone>760-367-5554</Phone>
-    <Address>
+    <Address NearestAirport="Palm Springs International Airport">
       <Number>74485</Number>
       <Street>National Park Drive</Street>
       <City>Twentynine Palms</City>
@@ -105,11 +104,11 @@
     </Address>
   </NationalPark>
 
-  <NationalPark Rating="4.8">
+  <NationalPark>
     <Name>Glacier</Name>
     <Phone>406-888-7800</Phone>
     <Phone>406-888-7806</Phone>
-    <Address>
+    <Address NearestAirport="Glacier Park International Airport">
       <Number>61</Number>
       <Street>Scoyen Circle</Street>
       <City>West Glacier</City>
@@ -130,7 +129,7 @@
     </Address>
   </NationalPark>
 
-  <NationalPark Rating="4.7">
+  <NationalPark>
     <Name>Everglades</Name>
     <Phone>305-242-7700</Phone>
     <Phone>305-242-7728</Phone>
